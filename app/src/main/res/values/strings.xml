@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">myTabLayout</string>
+
+    <string name="film1_title"> Título original: Godzilla vs Kong</string>
+    <string name="film1_year"> Fecha de estreno: 2021</string>
+    <string name="film1_country"> País: EEUU</string>
+    <string name="film1_gender"> Categoría: Ciencia Ficción</string>
+    <string name="film1_qualification"> Clasificación: +12</string>
+    <string name="film1_duration"> Duración: 113 minutos</string>
+    <string name="film1_synopsis"> Esta película cuenta la historia de un mundo en el que por las calles conviven todo tipo de monstruos y criaturas aterradoras. En este planeta se enfrentarán los dos protagonistas como dos de las fuerzas más espectaculares del universo y eso conllevará una batalla espectacular que moverá los cimientos de la naturaleza y de la humanidad tal y como la conocemos.Gracias a estos eventos Monarch (Kyle Chandler) se interesará por el origen de estos dos titanes y se sumará a una misión de alto riesgo que le llevará a territorios inexplorados donde se encontrará con más de una sorpresa en su búsqueda. Asímismo, durante esta investigación Monarch descubrirá que existe una conspiración por parte de los humanos para eliminar a todas estas criaturas de la faz de la tierra y "recuperar La Paz", por lo que ellos serán los verdaderos villanos de la cinta. </string>
+    <string name="film2_title"> Título original: Monster Hunter</string>
+    <string name="film2_year"> Fecha de estreno: 2021</string>
+    <string name="film2_country"> País: EEUU</string>
+    <string name="film2_gender"> Categoría: Fantasía</string>
+    <string name="film2_qualification"> Clasificación: +12</string>
+    <string name="film2_duration"> Duración: 103 minutos</string>
+    <string name="film2_synopsis"> El film presenta ese otro mundo paralelo al nuestro, habitado por feroces y letales monstruos que rigen estos territorios por sus normas con mano dura. Un día, la teniente Artemis interpretada por Milla Jovovich se transporta junto con sus más fieles soldados a este otro mundo. Para emprender la batalla por sobrevivir en este entorno hostil, Artemis luchará junto con un hombre misterioso que puede haber encontrado la forma de defenderse y sobrevivir contra estos enemigos.</string>
+    <string name="film3_title"> Título original: Nomadland</string>
+    <string name="film3_year"> Fecha de estreno: 2020</string>
+    <string name="film3_country"> País: EEUU</string>
+    <string name="film3_gender"> Categoría: Drama</string>
+    <string name="film3_qualification"> Clasificación: +12</string>
+    <string name="film3_duration"> Duración: 108 minutos</string>
+    <string name="film3_synopsis"> Drama que adapta la novela de la periodista Jessica Bruder centrada en los "nuevos nómadas" que viajan de trabajo en trabajo en el Estados Unidos de la recesión económica. La ganadora del Oscar Frances McDormand se pone en la piel de Fern, una de estas nómadas que representa otro de los muchos lados oscuros del sueño americano. Fern y su caravana son las grandes protagonistas de esta película que nos lleva a conocer lugares de la América profunda poco vistos en la gran pantalla, y a conocer a esas otras personas, nómadas como Fern, que se va cruzando en el camino. </string>
+    <string name="film4_title"> Título original: Nación</string>
+    <string name="film4_year"> Fecha de estreno: 2020</string>
+    <string name="film4_country"> País: España</string>
+    <string name="film4_gender"> Categoría: Documental</string>
+    <string name="film4_qualification"> Clasificación: +12</string>
+    <string name="film4_duration"> Duración: 92 minutos</string>
+    <string name="film4_synopsis"> Un documental que reconstruye la lucha de las trabajadoras de una fábrica de cerámica de Vigo (Galicia), cerrada en 2001.</string>
+    <string name="film5_title"> Título original:  Traidores </string>
+    <string name="film5_year"> Fecha de estreno: 2020</string>
+    <string name="film5_country"> País: España</string>
+    <string name="film5_gender"> Categoría: Documental</string>
+    <string name="film5_qualification"> Clasificación: +16</string>
+    <string name="film5_duration"> Duración: 94 minutos</string>
+    <string name="film5_synopsis"> Cuando apenas era un niño, Jon descubrió el pasado de su padre, Iñaki Viar, vinculado a ETA. Hijo, nieto y bisnieto de nacionalistas vascos, Iñaki fue detenido en 1969 por la brigada político social y juzgado junto a Teo Uriarte y Mario Onaindía en el Proceso de Burgos. Años después organizó la fuga de Segovia y, finalmente, en 1977, recuperó la libertad. Iñaki, como muchos otros presos, reniega del nacionalismo y condena la violencia terrorista. Jon, aficionado al cine, trata de entender el pasado de su padre mientras convive con atentados, secuestros y muchos silencios. Para entonces, Iñaki ya es considerado un ‘traidor’ por el mundo nacionalista.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
